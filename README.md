@@ -1,4 +1,4 @@
-# CalibrateAI-5-12-25
+# Hack Night at GitHub 5-26-25
 
 ## What you need for the workshop
 
